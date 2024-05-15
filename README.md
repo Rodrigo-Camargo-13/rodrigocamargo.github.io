@@ -1,1 +1,1 @@
-﻿# https://github.com/Rodrigo-Camargo-13/rodrigocamargo.github.io
+﻿# rodrigocamargo.github.io
